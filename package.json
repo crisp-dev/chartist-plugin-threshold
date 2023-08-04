@@ -56,7 +56,7 @@
   },
   "scripts": {
     "test": "grunt test",
-    "build": "grunt"
+    "_build": "grunt"
   },
   "config": {
     "banner": "/* chartist-plugin-threshold <%= pkg.version %>\n * Copyright © <%= year %> Gion Kunz\n * Free to use under the WTFPL license.\n * http://www.wtfpl.net/\n */\n",
